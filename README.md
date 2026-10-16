@@ -1,4 +1,4 @@
-# reenheys Centre — Network Design, Implementation & Security
+# Greenheys Centre — Network Design, Implementation & Security
 Cisco Packet Tracer | Networking & Cybersecurity Portfolio Project
 Project overview
 I designed, configured and tested a simulated network for Greenheys Centre using Cisco Packet Tracer as part of my Level 3 Networking and Cybersecurity studies. The project developed from a working multi-department network into a more secure design with traffic separation, firewall protection and access-control rules.
